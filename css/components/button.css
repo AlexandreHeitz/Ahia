@@ -1,0 +1,14 @@
+.btn-blue  {
+	background-color: #bbdd97;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: black;
+	font-weight: bold;
+	font-family: 'Permanent Marker', sans-serif;
+}
+
+.btn-blue:hover {
+	background-color: #282828;
+	color: #bbdd97;
+	transition: 0.4s;
+}

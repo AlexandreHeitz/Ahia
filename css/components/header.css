@@ -1,0 +1,30 @@
+.header {
+	position: fixed;
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	padding: 20px;
+	background-color: #bbdd97;
+	height: 30px;
+	width: 100%;
+}
+
+.header h3{
+	font-family: 'Permanent Marker';
+	font-size: 14px;
+}
+
+.header a {
+	font-family: 'Permanent Marker';
+	color: black;
+	font-size: 12px;
+}
+
+.header a:hover{
+	color: white;
+	transition: 0.4s;
+}
+
+#nav-links {
+	float: right;
+}
